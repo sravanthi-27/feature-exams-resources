@@ -1,7 +1,7 @@
 # feature-exams-resources
 TCS NQT, Infytq, cllg project prep, Personal projects- only one is more than enough!
 
-- Need to revise aptitude topics, revise DSA -main focus on blind75, revise basics again from NPTEL resources, assignments, coding.
+- Need to revise aptitude topics, revise DSA -main focus on blind75, revise basics again from notes, NPTEL resources, assignments, coding.
 - go to advanced topics based on type of exam!
 
 ## Main focus- TCS NQT
