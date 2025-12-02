@@ -1,9 +1,14 @@
 # feature-exams-resources
 TCS NQT, Infytq, cllg project prep, Personal projects
 
+- Need to revise aptitude topics, revise DSA -main focus on blind75, revise basics again from NPTEL resources, assignments, coding.
+- go to advanced topics based on type of exam!
 
 ## Main focus- TCS NQT
-Exam date - Maybe around aug 2026!
+
+## Exam date - Maybe around aug 2026!
+## Number of chances to attempt- only one!!
+
 Resorces - PYQ from prep insta, utube, ig channels, still need to check
 Roles: TCS Ninja, Digital, Prime
 Topics:
