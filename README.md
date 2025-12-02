@@ -38,7 +38,7 @@ Advanced Reasoning Ability	                                           25 mins (s
 Advanced Coding	                                                       90 mins	                                                               3
 ## Total Duration	                                                     190 mins                                                                83 questions
 
-## Key Points to Remember about TCS NQT 2025 Hiring Exam-:
+## Key Points to Remember about TCS NQT 2026 Hiring Exam-:
 
 There is no negative marking in the exam.
 Once you answer a question, you cannot go back to change it.
