@@ -4,6 +4,11 @@ TCS NQT, Infytq, cllg project prep, Personal projects- only one is more than eno
 - Need to revise aptitude topics, revise DSA -main focus on blind75, revise basics again from notes, NPTEL resources, assignments, coding.
 - go to advanced topics based on type of exam!
 
+
+## From online discussions:
+TCS-backup exam?then what?
+Accenture, cognizant exam released in nov, dec for 2025 batch then when for 2026 batch?
+
 ## Main focus- TCS NQT
 
 ## Exam date - Maybe around aug 2026!
