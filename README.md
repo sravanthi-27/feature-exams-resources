@@ -28,7 +28,7 @@ Topics:
 - Tricky questions
 - Advanced coding
 - Projects
-## Target score - greater than 85% , min score - greater than 70%
+## Target score - greater than 85% , min score - greater than 70%, pass score:min 50%
 
 ## Pattern
 
